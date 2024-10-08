@@ -1,0 +1,9 @@
+monet_jpg/
+monet_tfrec/
+photo_jpg/
+photo_tfrec/
+generated_images/
+training_checkpoints/
+generated_monet_images/
+images.zip
+cyclegan_model.pth
